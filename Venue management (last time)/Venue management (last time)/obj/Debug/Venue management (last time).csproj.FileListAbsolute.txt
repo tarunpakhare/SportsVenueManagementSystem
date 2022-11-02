@@ -1,0 +1,41 @@
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\Venue management (last time).exe.config
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\Venue management (last time).exe
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\Venue management (last time).pdb
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\BouncyCastle.Crypto.dll
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\Google.Protobuf.dll
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\K4os.Compression.LZ4.dll
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\K4os.Hash.xxHash.dll
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\MySql.Data.dll
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\System.Buffers.dll
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\System.Memory.dll
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\System.Numerics.Vectors.dll
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\ZstdNet.dll
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\BouncyCastle.Crypto.xml
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\Google.Protobuf.pdb
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\Google.Protobuf.xml
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\K4os.Compression.LZ4.xml
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\K4os.Hash.xxHash.xml
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\MySql.Data.xml
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\System.Buffers.xml
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\System.Memory.xml
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\System.Numerics.Vectors.xml
+C:\lets try\Venue management (last time)\Venue management (last time)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue management (last time).csproj.AssemblyReference.cache
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue_management__last_time_.Form1.resources
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue_management__last_time_.Form2.resources
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue_management__last_time_.Form3.resources
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue_management__last_time_.Form4.resources
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue_management__last_time_.Properties.Resources.resources
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue management (last time).csproj.GenerateResource.cache
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue management (last time).csproj.CoreCompileInputs.cache
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue management (last time).csproj.CopyComplete
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue management (last time).exe
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue management (last time).pdb
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue_management__last_time_.Form5.resources
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue_management__last_time_.Form6.resources
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue_management__last_time_.Form7.resources
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue_management__last_time_.Form8.resources
+C:\lets try\Venue management (last time)\Venue management (last time)\obj\Debug\Venue_management__last_time_.Form9.resources
